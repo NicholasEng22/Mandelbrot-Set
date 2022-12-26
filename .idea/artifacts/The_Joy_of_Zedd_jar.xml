@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="The Joy of Zedd:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="The Joy of Zedd.jar">
+      <element id="module-output" name="The Joy of Zedd" />
+    </root>
+  </artifact>
+</component>
